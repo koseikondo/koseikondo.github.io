@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+	<title>My Personal Introduction</title>
+	<style>
+body {
+background-color: E6CE95;
+}
+h1 {
+color: 7BB59A;
+}
+p {
+color: D09964;
+}
+	</style>
+	<body>
+		<h1>My name is Kosei.</h1>
+		<p>I am a high school Junior currently attending Green Hope High School. I am taking this class through Wake Tech's CCP program. I play the cello and run Track.</p>
+	</body>
+</head>
+
+</html>
